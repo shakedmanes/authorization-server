@@ -99,7 +99,7 @@
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
     "mocha": "^5.2.0",
-    "node-forge": "^0.7.6",
+    "node-forge": "^0.10.0",
     "node-jose": "^1.0.0",
     "nodemon": "^1.18.3",
     "supertest": "^3.3.0",
